@@ -1,4 +1,4 @@
-* Leitura recomendada
+# Leitura recomendada
 
 Capítulo 9 - Tabela Hash, Mapas e Skip Lists
 
@@ -18,7 +18,7 @@ SCHILDT, Herbert. Java para Iniciantes. 6. ed. Porto Alegre: Bookman, 2015. E-bo
 
 
 
-** Exercícios
+## Exercícios
 
 Em todos os exercícios, utilize os testes unitários para garantir a corretude da estrutura de dados.
 
@@ -40,7 +40,7 @@ Em todos os exercícios, utilize os testes unitários para garantir a corretude 
 
 
 
-** LeetCode
+## LeetCode
 
 Lista de Problemas sobre HashTable no LeetCode
 
@@ -50,8 +50,7 @@ Problemas recomendado:
 3. Longest Substring withou repeating characters
 
 
-
-** Correção dos Exercícios
+## Correção dos Exercícios
 
 Esqueleto do projeto para o desenvolvimento.
 
